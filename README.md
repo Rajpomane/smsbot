@@ -1,8 +1,9 @@
 # ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑
 
 <p align="center">
-<img src="https://vip1.static.reallct.com/2020/09/28/PzWnqVZgcbE7wCv.png" alt="✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑">
+  <img src="https://telegra.ph/file/cae0924e461ce7904cd54.jpg">
 </p>
+
 
 ![Min Android Version](https://img.shields.io/badge/Min%20Android%20Version-5.1-orange.svg?style=flat-square)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat-square)](https://github.com/telegram-sms/telegram-sms/blob/master/LICENSE)
