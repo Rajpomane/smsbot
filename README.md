@@ -1,7 +1,7 @@
 # ✼➢Rᴀᴊᴘᴜᴛ‿✶Kᴀ❣Cʜʜᴏʀᴀ👑
 
 <p align="center">
-  <img src="https://telegra.ph/file/cae0924e461ce7904cd54.jpg">
+  <img src="https://telegra.ph/file/bafe41175936b5ff85c40.jpg">
 </p>
 
 ![Min Android Version](https://img.shields.io/badge/Min%20Android%20Version-5.1-orange.svg?style=flat-square)
